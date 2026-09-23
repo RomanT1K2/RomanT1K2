@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roman Tkachuk</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from  contry India</h3>
 
 - 📫 How to reach me **roman2212c@gmail.com**
 
